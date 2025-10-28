@@ -406,4 +406,22 @@ fs.watchFile(fichier, () => {
     console.log(`Updates ${__filename}`);
     delete require.cache[fichier];
     require(fichier);
+}
+// 🟢 Render Keep-Alive Web Server
+// ===============================
+const express = require('express');
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.get('/', (req, res) => {
+  res.send('🟢 RAHL XMD Bot is running successfully!');
+});
+
+app.get('/restart', (req, res) => {
+  res.send('🔄 Restart command received');
+  setTimeout(() => process.exit(0), 1000);
+});
+
+app.listen(PORT, () => {
+  console.log(`✅ RAHL XMD server active on port ${PORT}`);
 });
