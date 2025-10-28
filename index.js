@@ -1,16 +1,17 @@
 //  [RAHL-XMD QUANTUM EDITION]                                           
 //  >> A superposition of elegant code states                           
 //  >> Collapsed into optimal execution                                
-//  >> Scripted by Lord rahl                                    
+//  >> Scripted by Lord Rahl                                    
 //  >> Version: 1.0.0quantum.7
 
 const axios = require('axios');
 const cheerio = require('cheerio');
-const adams = require("./config");
+const adams = require("./config"); // or rename to rahl if you want
 
 async function fetchHOMEUrl() {
   try {
-    const response = await axios.get(lord.RAHL_XMD);
+    // ✅ Fixed line below
+    const response = await axios.get(adams.RAHL_XMD);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("HOME")');
