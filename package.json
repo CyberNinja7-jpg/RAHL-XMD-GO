@@ -14,9 +14,8 @@
     "c": "tsc",
     "pm2-start": "pm2 start index.js --attach",
     "xmd": "pm2 start index.js --attach"
-  
 },
-  "keywords": [
+  "keywords": 
     "bot",
     "Baileys",
     "rahlxmd",
