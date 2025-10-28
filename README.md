@@ -1,93 +1,104 @@
-<!-- Glowing Header -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+✨⚡ LORD RAHL PRESENTS ⚡✨  
 </h1>
 
-<!-- Profile Card -->
+<h2 align="center">
+👑 R A H L — X M D 👑  
+</h2>
+
 <p align="center">
-  <img src="https://i.postimg.cc/qMGyygX3/file-0000000015e461f591ec730449addc50-1.png" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+A Dark, Ancient, and Royal WhatsApp Multi-Device Bot  
+Built with Power, Mystery, and the Mind of RAHL ⚡  
 </p>
 
-<!-- Quantum Pulse - Activity Animation -->
+---
+
+## 🧠 About RAHL XMD
+
+**RAHL XMD** is a next-generation WhatsApp Multi-Device bot designed by **Lord Rahl**, forged in darkness and coded for command.  
+It combines intelligence, beauty, and raw energy to serve as your royal companion in automation, moderation, and entertainment.
+
+---
+
+## ⚙️ Features
+
+- 👑 Multi-Device Support  
+- ⚡ Lightning-Fast Commands  
+- 🧩 Plugin Ready & Auto Command Detection  
+- 🔒 Encrypted Session System  
+- 🔊 Audio, Video, and Sticker Maker  
+- 💬 AI Chat, Downloader, and Admin Tools  
+- 🔥 Royal Design & Dark Mode Interface  
+
+---
+
+## 🪄 Deploy Instantly
+
+Choose your deployment realm and unleash the power of **RAHL XMD** 👇
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF00FF&background=000000&center=true&vCenter=true&width=400&lines=🟢+Quantum+Pulse:+Alive;💬+Responding+to+your+messages;🚀+Deploying+WhatsApp+Bots;🔔+Always+Online!" alt="Quantum Pulse Animation">
+  
+<a href="https://railway.app/new">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
+
+<a href="https://render.com/deploy">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Render-blue?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+<a href="https://heroku.com/deploy">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>
+</a>
+
 </p>
 
-<!-- Banner Image -->
-<p align="center">
-  <a href="https://i.postimg.cc/qMGyygX3/file-0000000015e461f591ec730449addc50-1.png">
-    <img src="https://i.postimg.cc/qMGyygX3/file-0000000015e461f591ec730449addc50-1.png" width="100%" height="auto">
-  </a>
-</p>
+---
 
-<!-- Action Buttons -->
-<p align="center">
-  <a href="https://rahl-verse-empire-pair-site.onrender.com" target="_blank" rel="noopener noreferrer">
-    <img title="GET QUANTUM SESSION" src="https://img.shields.io/badge/🔑_GET_QUANTUM_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
-  </a>
-  <a href="https://main.bwmxmd.online/Deploy" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://render.com" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
-  </a>
-  <a href="https://main.bwmxmd.online/Panel_files" target="_blank" rel="noopener noreferrer">
-    <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://railway.app?referralCode=AqkNn4" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
-  </a>
-</p>
-<p align="center">
-  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
-</p>
+## ⚡ Get Quantum Session (Required)
 
-<!-- WhatsApp Channel Call to Action -->
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbALNKAAe5VjwDCu7l2E" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Follow%20My%20WhatsApp%20Channel-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" width="340" height="50" alt="Follow my WhatsApp Channel!"/>
-  </a>
-  <br>
-  <b>🔥 Join my WhatsApp Channel for instant updates, exclusive tips, and bot news!</b>
-</p>
+Before deploying, generate your **RAHL Quantum Session** here 👇  
 
-<!-- Repo Alive Statistics & Video Animation -->
-<h2 align="center">📊 Repo Alive Statistics</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bwmxmd254&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Bwmxmd254?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/Bwmxmd254?label=GitHub+Stars&style=for-the-badge" alt="GitHub Stars"/>
-</p>
+🎯 **[Get RAHL Quantum Session](https://rahl-verse-empire-pair-site.onrender.com)**  
 
-<!-- iPhone/Android Info -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Best%20Experience-iPhone%20vs%20Android-000000?style=for-the-badge&logo=apple&logoColor=white&color=gray" width="320" height="40"/>
-  <br>
-  <b>
-    <span style="color:#00ffea;">Tip for iPhone users:</span>  
-    If any button says "Download" instead of opening, try long-pressing and choose "Open in New Tab".  
-    Android users: All buttons should open instantly!
-  </b>
-</p>
+---
 
-<!-- More Button -->
-<p align="center">
-  <a href="https://bwmxmd.online" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/For%20more%2C%20Tap%20Here-00ffaa?style=for-the-badge&logo=internet-explorer&logoColor=white" width="340" height="50" alt="For more tap here"/>
-  </a>
-</p>
+## 📦 Environment Variables
 
-<!-- Animated Status Bar -->
+Create a `.env` file and fill it as shown:
+
+```env
+PORT=3000
+BOT_NAME=RAHL XMD
+ADMIN_NUMBER=254112399557
+SESSION_PATH=./sessions
+```
+
+You can add more if your host requires — the main 4 above are essential.
+
+---
+
+## 🕶️ Credits
+
+> 👑 **Lord Rahl** — Creator & Maintainer  
+> ⚡ Royal Intelligence, Dark Design & Quantum Power
+
+---
+
+## 🖤 Royal Vision
+
+> “The darkness is not evil — it is power hidden in silence.”  
+> — Lord Rahl
+
+---
+
+## 🌐 Connect
+
+- 🔗 **Official Pair Site:** [rahl-verse-empire-pair-site.onrender.com](https://rahl-verse-empire-pair-site.onrender.com)  
+- ⚡ **Powered by:** RAHL XMD Systems  
+- 🕯️ **Theme:** Dark Royal, Ancient Tech
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bwmxmd254/Bwmxmd254/main/assets/statusbar.gif" height="25">
-  <br>
-  <span style="font-size:1.2em; color:#00ffea;">Status: <b>Online & Quantum-Ready 🚀</b></span>
+  <b>⚡ LORD RAHL — RULE THROUGH CODE ⚡</b>  
 </p>
