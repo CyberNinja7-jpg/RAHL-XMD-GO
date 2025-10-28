@@ -11,7 +11,7 @@ const adams = require("./config"); // or rename to rahl if you want
 async function fetchHOMEUrl() {
   try {
     // ✅ Fixed line below
-    const response = await axios.get(adams.RAHL_XMD);
+    const response = await axios.get(rahl.RAHL_XMD);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("HOME")');
